@@ -1,0 +1,66 @@
+<resources>
+    <string name="one">one</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+
+    <string name="eleven">Eleven</string>
+    <string name="twelve">Twelve</string>
+    <string name="thirteen">Thirteen</string>
+    <string name="fourteen">Fourteen</string>
+    <string name="fifteen">Fifteen</string>
+    <string name="sixteen">Sixteen</string>
+    <string name="seventeen">Seventeen</string>
+    <string name="eighteen">Eighteen</string>
+    <string name="nineteen">Nineteen</string>
+    <string name="twenty">Twenty</string>
+
+    <string name="twentyone">Twenty-one</string>
+    <string name="twentytwo">Twenty-Two</string>
+    <string name="twentythree">Twenty-Three</string>
+    <string name="twentyfour">Twenty-Four</string>
+    <string name="twentyfive">Twenty-Five</string>
+    <string name="twentysix">Twenty-Six</string>
+    <string name="twentyseven">Twenty-Seven</string>
+    <string name="twentyeight">Twenty-Eight</string>
+    <string name="twentynine">Twenty-Nine</string>
+    <string name="thirty">Thirty</string>
+
+    <string name="thirtyone">Thirty-one</string>
+    <string name="thirtytwo">Thirty-Two</string>
+    <string name="thirtythree">Thirty-Three</string>
+    <string name="thirtyfour">Thirty-Four</string>
+    <string name="thirtyfive">Thirty-Five</string>
+    <string name="thirtysix">Thirty-Six</string>
+    <string name="thirtyseven">Thirty-Seven</string>
+    <string name="thirtyeight">Thirty-Eight</string>
+    <string name="thirtynine">Thirty-Nine</string>
+    <string name="forty">Forty</string>
+
+    <string name="fortyone">Forty-one</string>
+    <string name="fortytwo">Forty-Two</string>
+    <string name="fortythree">Forty-Three</string>
+    <string name="fortyfour">Forty-Four</string>
+    <string name="fortyfive">Forty-Five</string>
+    <string name="fortysix">Forty-Six</string>
+    <string name="fortyseven">Forty-Seven</string>
+    <string name="fortyeight">Forty-Eight</string>
+    <string name="fortynine">Forty-Nine</string>
+    <string name="fifty">Fifty</string>
+
+    <string name="fiftyone">Fifty-one</string>
+    <string name="fiftytwo">Fifty-Two</string>
+    <string name="fiftythree">Fifty-Three</string>
+    <string name="fiftyfour">Fifty-Four</string>
+    <string name="fiftyfive">Fifty-Five</string>
+    <string name="fiftysix">Fifty-Six</string>
+    <string name="fiftyseven">Fifty-Seven</string>
+    <string name="fiftyeight">Fifty-Eight</string>
+    <string name="fiftynine">Fifty-Nine</string>
+    <string name="sixty">Sixty</string>
+</resources>
